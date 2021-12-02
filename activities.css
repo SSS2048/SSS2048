@@ -1,0 +1,83 @@
+.awards-class{
+	width: 100%;
+	height: 500px;
+}
+.Awards-section{
+	text-align: center;
+	
+}
+.awards{
+	padding-top:20px;
+    padding-right:40 px;
+    padding-left: 50px;
+	float: left;
+	text-align: center;
+}
+.awards-img{
+	height:300px;
+	width:250px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(150, 182, 114, 0.7),rgba(201, 200, 135, 0.7)),url(background.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(17, 158, 12);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: rgb(50, 51, 50);
+  }
+  .foot{
+    background-image: linear-gradient(rgba(59, 71, 109, 0.7),rgba(199, 199, 183, 0.7)),url(manoj.jpg);
+    width:100%;
+    height: 220px;
+    
+  }
+  .insta{
+     margin-left:10%;
+     margin-top: 10px;
+     width:35px;
+     height:35px;
+
+  }
+  .para{
+      margin-left: 10%;
+      margin-top: 10px;
+      padding-right: 40px;
+    
+  }
+  .sc{
+-ms-overflow-style: ;: ;
+  }
+  .sc::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+}
+.heading{
+    font-size: 30px;
+    font-style: italic;
+}
